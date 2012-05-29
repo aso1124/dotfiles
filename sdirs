@@ -1,0 +1,7 @@
+export DIR_sa="$HOME/Documents/work/git/allstream-sa"
+export DIR_sbm="$HOME/Documents/work/git/allstream-www"
+export DIR_gith="$HOME/Documents/work/git"
+export DIR_workspace="$HOME/Documents/work/workspace"
+export DIR_mvc="$HOME/Documents/work/git/allstream-lib-mvc"
+export DIR_m2="$HOME/.m2/repository"
+export DIR_tomh="$HOME/Documents/java/springsource/vfabric-tc-server-developer-2.6.1.RELEASE/spring-insight-instance/wtpwebapps"
