@@ -34,7 +34,8 @@ hi Cursor    guifg=black   guibg=#b0b4b8
 hi lCursor   guifg=black   guibg=white
 hi LineNr    guifg=#ffffff guibg=#c0d0e0
 
-hi Normal    guifg=#202020   guibg=#f0f0f0
+" hi Normal    guifg=#202020   guibg=#f0f0f0
+hi Normal    guifg=#202020 guibg=#E6E6E6
 
 hi StatusLine guifg=white guibg=#8090a0 gui=bold,italic
 hi StatusLineNC guifg=#506070 guibg=#a0b0c0 gui=italic
@@ -44,7 +45,8 @@ hi Folded    guifg=#708090 guibg=#c0d0e0
 
 hi NonText   guifg=#c0c0c0 guibg=#e0e0e0
 " Kommentare
-hi Comment   guifg=#a0b0c0               gui=italic
+" hi Comment   guifg=#a0b0c0 gui=italic
+hi Comment guifg=#95A7B8 gui=italic
 
 " Konstanten
 hi Constant  guifg=#a07040
