@@ -8,6 +8,11 @@ set number
 colorscheme pyte
 filetype plugin indent off
 
+" #### Backup location
+set backup
+set backupdir=$HOME/backup/.vim_backup//       "where to put those backups
+set directory=$HOME/backup/.vim_swp//           "this is for swp files  
+
 " Window navigation
 " use ctrl-h/j/k/l to switch between splits
 map <C-j> <C-w>j
